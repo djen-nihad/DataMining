@@ -1,7 +1,7 @@
 This project applies Data Mining techniques to analyze two key datasets:
 
-### Soil Quality Data – to uncover insights relevant to agriculture.
-### COVID-19 Impact Data – to identify trends in public health.
+1. Soil Quality Data – to uncover insights relevant to agriculture.
+2. COVID-19 Impact Data – to identify trends in public health.
 
 The project integrates a complete end-to-end data analysis pipeline, including:
 
